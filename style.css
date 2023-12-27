@@ -1,0 +1,23 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(16, 43, 63);
+    
+}
+/* 16, 43, 63  ---  160, 108, 213 --- 222, 203, 230*/
+.header, div, h2 {
+    color: rgb(160, 108, 213);
+    text-align: center;
+    font-size: 40px;
+}
+
+.header {
+    font-size: 50px;
+}
+
+p, li {
+    color: rgb(222, 203, 230);
+    font-weight: bolder;
+    width: 900px;
+  margin: 0 auto;
+}
+
